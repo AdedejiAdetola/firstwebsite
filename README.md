@@ -1,2 +1,2 @@
 # firstwebsite
-https://adedejiadetola.github.io/firstwebsite/
+https://adedejiadetola.github.io/firstwebsite/CSS~Site/
